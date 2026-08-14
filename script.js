@@ -1,7 +1,7 @@
 let products = [
     {
-    image: "Burger.jpg",
-    name: "Burger",
+    image: "Steak.jpg",
+    name: "Steak",
     price: 180
 },
 {
